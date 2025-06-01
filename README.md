@@ -90,7 +90,7 @@ Enter the number of bedrooms, bathrooms, floors, and the year of build.
 Click Predict to see the predicted house price.
 
 ## Preview
-<img src='https://github.com/nikitapatil0406/house-price-prediction-/blob/main/form.png'></img>
+<img src=(https://github.com/nehapatil0406/House-Price-Prediction/blob/main/form.jpeg)></img>
 <br>
 <br>
 <img src='https://github.com/nikitapatil0406/house-price-prediction-/blob/main/price%20prediction.png'></img>
