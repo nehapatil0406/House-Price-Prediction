@@ -93,7 +93,7 @@ Click Predict to see the predicted house price.
 <img src=(https://github.com/nehapatil0406/House-Price-Prediction/blob/main/form.jpeg)></img>
 <br>
 <br>
-<img src='https://github.com/nikitapatil0406/house-price-prediction-/blob/main/price%20prediction.png'></img>
+<img src='https://github.com/nehapatil0406/House-Price-Prediction/blob/main/prediction.jpeg'></img>
 <br>
 <br>
 
